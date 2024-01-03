@@ -1,2 +1,3 @@
-# civo-crash-course
-This repo is for Civo Crash Course
+# Civo crash course
+
+This is the repository for Civo Crash course. This repo containes all the files shown in the video. 
